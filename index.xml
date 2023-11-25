@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vlad Balan Blog</title>
+    <link>https://balan-code.github.io/</link>
+    <description>Recent content on Vlad Balan Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Nov 2023 13:46:55 +0000</lastBuildDate>
+    <atom:link href="https://balan-code.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first Post</title>
+      <link>https://balan-code.github.io/posts/firstpost/</link>
+      <pubDate>Sat, 25 Nov 2023 13:46:55 +0000</pubDate>
+      <guid>https://balan-code.github.io/posts/firstpost/</guid>
+      <description>This is my first post.</description>
+    </item>
+  </channel>
+</rss>
